@@ -25,6 +25,11 @@ Welcome to my Github page! I'm Iván Escobar, Computer Engineer & Software Devel
 #### 😍 Interested in:
 - Web development (frontend, backend), Mobile development, DevOps, TDD, SysOps
 
+#### 💡 Next goals
+- Complete #100DaysOfCode challenge
+- Build more projects and my portfolio website
+- Become skilled in advanced Javascript and React with some external libraries 
+
 #### :1st_place_medal: Relevant achievement:
 
 - Excellence Award for being a new student at the University of Jaén and previously obtaining honors in CFGS "Computer Systems Administration"
