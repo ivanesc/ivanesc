@@ -33,3 +33,28 @@ Welcome to my Github page! I'm Iván Escobar, Computer Engineer & Software Devel
 - Recognition for the best TFM of the Master's Degree in Computer Engineering 2018 and 5th best TFM of the entire University of Jaén out of 1150 papers defended in 2018
 
 #### :computer: Programming languages and tools: 
+
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg">
+  <img align="center" alt="vscode" height="40px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  <img align="center" alt="java" height="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+  <img align="center" alt="javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript" height="40" width="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+  <img align="center" alt="Spring" height="40px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/> 
+  <img align="center" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> 
+  <img align="center" alt="MySQL" height="40px" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" />
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+  <img align="center" alt="MongoDB" height="40" width="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+  <img align="center" alt="C++" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <img align="center" alt="Linux" height="40" width="50" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+  <img align="center" alt="Jest" height="40" width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
+
+  ##
+  
+ <div>
