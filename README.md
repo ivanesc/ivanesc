@@ -14,7 +14,7 @@
 
 Welcome to my Github page! I'm Iván Escobar, Computer Engineer & Software Developer & Full Stack Web Developer from Spain  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img_profile" src="images/image_githubProfile.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
