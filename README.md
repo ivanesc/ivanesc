@@ -7,8 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivanescobarsanchez/)</code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/ivanescobarsanchez" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/Ivan_Esco9" title="Twitter Profile"><img width="22" src="images/twitter-icon.svg"> Twitter</a></code>
+  <code><a href="mailto:ivanescobarsanchez174@gmail.com" title="Gmail"><img width="22" src="images/icons8-gmail-logo.svg"> Gmail</a></code>
 </h5>
