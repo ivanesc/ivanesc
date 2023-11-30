@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/ivanescobarsanchez" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/Ivan_Esco9" title="Twitter Profile"><img width="22" src="images/twitter-icon.svg"> Twitter</a></code>
+  <code><a href="https://twitter.com/ivesan999" title="Twitter Profile"><img width="22" src="images/twitter-icon.svg"> Twitter</a></code>
   <code><a href="mailto:ivanescobarsanchez174@gmail.com" title="Gmail"><img width="22" src="images/icons8-gmail-logo.svg"> Gmail</a></code>
 </h5>
 
