@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ivanesc.ivanesc">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fivanesc&label=N%C2%BA%20de%20visitas&countColor=%23263759)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
